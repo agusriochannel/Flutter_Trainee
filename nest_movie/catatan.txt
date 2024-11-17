@@ -1,0 +1,12 @@
+Future<void> initFlutter([String? subDir])
+Type: Future<void> Function([String?])
+
+package:hive_flutter/hive_flutter.dart
+Initializes Hive with the path from [getApplicationDocumentsDirectory].
+You can provide a [subDir] where the boxes should be stored.
+
+PS E:\workspace\flutter\nest_movie> flutter pub get
+PS E:\workspace\flutter\nest_movie> flutter packages pub run build_runner build
+
+Start:
+1. 
